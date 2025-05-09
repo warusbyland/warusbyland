@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Warus
 
-<!--
-**warusbyland/warusbyland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a self-taught beginner developer learning from home.  
 
-Here are some ideas to get you started:
+## 🚀 Languages I use
+- 🐍 Python
+- 🌐 JavaScript
+- 💻 C++
+## 🛠️ Projects I'm working on
+- [Warus Engine (Voxel Engine)](https://youtube.com)
+## 📌 Some Projects I've Worked On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ---
+> 💡 I'm here to learn and have fun!
