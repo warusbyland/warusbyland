@@ -8,6 +8,7 @@
 - 💻 C++
 ## 🛠️ Projects I'm working on
 - [Warus Engine (Voxel Engine)](https://github.com/warusbyland/Warus-engine)
+- [Chessagine (broken link](https://github.com/warusbyland/warusbyland)
 ## 📌 Some Projects I've Worked On
 
 > ---
